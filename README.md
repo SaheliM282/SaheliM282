@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saheli Mukherjee @SaheliM282
-- 👀 I’m interested in data analytics, spatial data anlytics
-- 🌱 I’m currently learning Python, MySQL
+- 👀 I’m interested in data analytics, geospatial data anlytics
 - 😄 Pronouns: She/Her
 
 <!---
